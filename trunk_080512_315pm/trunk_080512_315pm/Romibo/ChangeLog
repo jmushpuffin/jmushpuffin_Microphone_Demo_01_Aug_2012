@@ -1,0 +1,6 @@
+2012-01-08  garthz  <garthz@jitterbug.graphics.cs.cmu.edu>
+
+	* Romibo.ino.  Switching the names of state and mode.  In my mind,
+	mode is a long-term condition, and state is a transient condition,
+	and the new definition reflects this hierarchy.
+
