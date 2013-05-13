@@ -1,4 +1,4 @@
-Microphone Demo 01, aug 2012 ( Jer_Demo1_ComeHere081012.ino )
+Microphone Demo 01, aug 2012 ( Jer_Demo1_ComeHere081012.ino ) :)
 Jeremy R Romeiko
 
 This trunk contains all the files associated with the initial demonstration of microphone
